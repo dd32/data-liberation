@@ -1,0 +1,23 @@
+{
+  "wordpress": {
+    "title": "WordPress to WordPress",
+    "slug": "wordpress",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/wordpress-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+  "tumblr": {
+    "title": "Tumblr to WordPress",
+    "slug": "tumblr",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/tumblr-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+  "squarespace": {
+    "title": "Squarespace to WordPress",
+    "slug": "squarespace",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/squarespace-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  }
+}
