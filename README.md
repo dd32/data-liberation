@@ -10,9 +10,6 @@ Rather than each person or organization needing to figure out a migration pathwa
 * [WordPress to WordPress migrations](https://github.com/WordPress/data-liberation/issues/73)
 * [Migrating between Editors and Core/Third Party Blocks](https://github.com/WordPress/data-liberation/issues/59)
 
-## Stay Connected
-
-Join others working on this effort in [#data-liberation](https://wordpress.slack.com/archives/C069AKUBPHB). Ask questions, share how you'd like to help, and help others get started.
 
 ## Get Involved
 
@@ -35,9 +32,7 @@ Help out by contributing a guide to migrating into WordPress from a third-party 
 
 * [List of needed Migration Guides](https://github.com/WordPress/data-liberation/issues/2)
 
+## Stay Connected
 
-
-
-
-
+Join others working on this effort in [#data-liberation](https://wordpress.slack.com/archives/C069AKUBPHB). Ask questions, share how you'd like to help, and help others get started.
 
