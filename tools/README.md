@@ -4,6 +4,12 @@ This is a curated list of valuable tools and resources created by our community 
 
 ## Tools by category
 
-- [Divi to Gutenberg](https://github.com/WordPress/move-to-wp/tree/trunk/tools/divi-to-gutenberg)
-- [Classic to Gutenberg](https://github.com/WordPress/move-to-wp/tree/trunk/tools/classic-to-gutenberg)
-- [Figma to Blocks](https://github.com/WordPress/move-to-wp/tree/trunk/tools/figma-to-blocks)
+### Importing
+
+- [Keyring Social Importer](https://github.com/WordPress/data-liberation/tree/trunk/tools/keyring-importer) - Tool to import content from various Social Media sources
+
+### Converting
+
+- [Divi to Gutenberg](https://github.com/WordPress/move-to-wp/tree/trunk/tools/divi-to-gutenberg) - Tools to migrate Divi blocks to Core blocks
+- [Classic to Gutenberg](https://github.com/WordPress/move-to-wp/tree/trunk/tools/classic-to-gutenberg) - Tool to help convert Classic content to Core blocks
+- [Figma to Blocks](https://github.com/WordPress/move-to-wp/tree/trunk/tools/figma-to-blocks) - Tool to convert Figma layouts to Core blocks
