@@ -4,6 +4,13 @@ The Data Liberation project imagines a more open web where users can seamlessly 
 
 Rather than each person or organization needing to figure out a migration pathway, the WordPress community is coming together to provide **tools and guides** for us *all* to use to bring folks to WordPress. The outcome will be community-owned plugins and resources accessible for all. Everyone is welcomed to share their knowledge and creations to facilitate others' transitions to WordPress and within WordPress. 
 
+## Primary Initiatives
+
+The Data Liberation is currently focused on two priuary areas:
+
+* [Migrating from third-party platforms to WordPress](https://github.com/WordPress/data-liberation/issues/60)
+* [WordPress to WordPress migrations](https://github.com/WordPress/data-liberation/issues/73)
+
 ## Stay Connected
 
 Join others working on this effort in [#data-liberation](https://wordpress.slack.com/archives/C069AKUBPHB). Ask questions, share how you'd like to help, and help others get started.
