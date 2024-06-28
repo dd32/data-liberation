@@ -6,7 +6,9 @@ Rather than each person or organization needing to figure out a migration pathwa
 
 ## Primary Initiatives
 
-[Migrating from third-party platforms to WordPress](https://github.com/WordPress/data-liberation/issues/60) |  [WordPress to WordPress migrations](https://github.com/WordPress/data-liberation/issues/73)
+* [Migrating from third-party platforms to WordPress](https://github.com/WordPress/data-liberation/issues/60)
+* [WordPress to WordPress migrations](https://github.com/WordPress/data-liberation/issues/73)
+* [Migrating between Editors and Core/Third Party Blocks](https://github.com/WordPress/data-liberation/issues/59)
 
 ## Stay Connected
 
@@ -34,11 +36,6 @@ Help out by contributing a guide to migrating into WordPress from a third-party 
 * [List of needed Migration Guides](https://github.com/WordPress/data-liberation/issues/2)
 
 
-
-A great way to get started is to check tracking issues which cover the main focus areas of the project. 
-
-* [Migrating from third-party platforms to WordPress](https://github.com/WordPress/data-liberation/issues/60)
-* [Migrating between Editors and Core/Third Party Blocks](https://github.com/WordPress/data-liberation/issues/59)
 
 
 
