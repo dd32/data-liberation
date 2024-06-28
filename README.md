@@ -6,10 +6,7 @@ Rather than each person or organization needing to figure out a migration pathwa
 
 ## Primary Initiatives
 
-The Data Liberation is currently focused on two priuary areas:
-
-* [Migrating from third-party platforms to WordPress](https://github.com/WordPress/data-liberation/issues/60)
-* [WordPress to WordPress migrations](https://github.com/WordPress/data-liberation/issues/73)
+[Migrating from third-party platforms to WordPress](https://github.com/WordPress/data-liberation/issues/60) |  [WordPress to WordPress migrations](https://github.com/WordPress/data-liberation/issues/73)
 
 ## Stay Connected
 
