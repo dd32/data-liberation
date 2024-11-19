@@ -6,6 +6,7 @@ Rather than each person or organization needing to figure out a migration pathwa
 
 ## Primary Initiatives
 
+* [Try WordPress: Import your existing website to WordPress in an intuitive way](https://github.com/WordPress/try-wordpress)
 * [Migrating from third-party platforms to WordPress](https://github.com/WordPress/data-liberation/issues/60)
 * [WordPress to WordPress migrations](https://github.com/WordPress/data-liberation/issues/73)
 * [Migrating between Editors and Core/Third Party Blocks](https://github.com/WordPress/data-liberation/issues/59)
