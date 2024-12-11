@@ -20,4 +20,4 @@ Whether you're a WordPress user, designer, or developer, your help makes the web
 
 Join others working on this effort in [#data-liberation](https://wordpress.slack.com/archives/C069AKUBPHB). Ask questions, share how you'd like to help and help others get started.
 
-As web hosts, agencies, and individual contributors - we can work together to make Data Liberation a reality.
+Web hosts, agencies, and individual contributors - we can work together to make Data Liberation a reality.
